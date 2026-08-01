@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Uttam Ughareja 👋
 
-<!--
-**uttamughareja/uttamughareja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Solution Architect • nopCommerce Certified Expert • .NET Developer • Angular Developer
 
-Here are some ideas to get you started:
+I build software that solves **business problems**, not just technical challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since **2013** (full-time since **2015**), I've been helping businesses design and deliver scalable web applications. I enjoy working closely with customers to understand their goals, architect practical solutions, and build software that creates real business value—not just working features.
+
+### What I focus on
+
+- 🏗️ **Solution Architecture** – Designing scalable, maintainable systems.
+- 🛒 **nopCommerce** – Enterprise eCommerce, custom plugins, integrations, and performance.
+- ⚡ **Angular** – Modern, responsive, and maintainable web applications.
+
+### Tech Stack
+- *Backend:* .NET, Entity Framework, Dapper, NODE 
+- *Frontend:* Angular, JavaScript
+- *Database:* SQL Server, MySQL, PostgreSQL, 
+- *DevOps/Server Management:* [CtrlOps](https://ctrlops.io) for managing and deploying to multiple Linux servers
+
+> *Good software isn't about writing more code—it's about solving the right problem.*
