@@ -16,6 +16,5 @@ Since **2013** (full-time since **2015**), I've been helping businesses design a
 - *Backend:* .NET, Entity Framework, Dapper, NODE 
 - *Frontend:* Angular, JavaScript
 - *Database:* SQL Server, MySQL, PostgreSQL, 
-- *DevOps/Server Management:* [CtrlOps](https://ctrlops.io) for managing and deploying to multiple Linux servers
 
 > *Good software isn't about writing more code—it's about solving the right problem.*
