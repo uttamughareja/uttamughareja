@@ -1,4 +1,4 @@
-# Hi, I'm Uttam Ughareja 👋
+# Hi, I'm Uttam Ughareja 
 
 ## Solution Architect • nopCommerce Certified Expert • .NET Developer • Angular Developer
 
